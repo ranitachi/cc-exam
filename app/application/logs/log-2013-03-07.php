@@ -1,0 +1,25 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2013-03-07 03:15:43 --> 404 Page Not Found --> welcome
+ERROR - 2013-03-07 04:58:53 --> 404 Page Not Found --> welcome
+ERROR - 2013-03-07 05:02:46 --> 404 Page Not Found --> welcome
+ERROR - 2013-03-07 05:03:03 --> 404 Page Not Found --> ccis
+ERROR - 2013-03-07 05:03:11 --> 404 Page Not Found --> page
+ERROR - 2013-03-07 05:03:30 --> 404 Page Not Found --> welcome
+ERROR - 2013-03-07 05:04:33 --> 404 Page Not Found --> welcome
+ERROR - 2013-03-07 05:13:44 --> 404 Page Not Found --> welcome
+ERROR - 2013-03-07 05:17:01 --> 404 Page Not Found --> welcome
+ERROR - 2013-03-07 05:25:45 --> 404 Page Not Found --> welcome
+ERROR - 2013-03-07 05:25:55 --> 404 Page Not Found --> students
+ERROR - 2013-03-07 05:26:01 --> 404 Page Not Found --> student
+ERROR - 2013-03-07 05:27:45 --> 404 Page Not Found --> welcome
+ERROR - 2013-03-07 05:29:04 --> 404 Page Not Found --> student
+ERROR - 2013-03-07 05:29:57 --> 404 Page Not Found --> welcome
+ERROR - 2013-03-07 05:44:12 --> 404 Page Not Found --> welcome
+ERROR - 2013-03-07 05:49:00 --> 404 Page Not Found --> welcome
+ERROR - 2013-03-07 06:37:50 --> 404 Page Not Found --> welcome
+ERROR - 2013-03-07 07:36:54 --> 404 Page Not Found --> welcome
+ERROR - 2013-03-07 08:50:35 --> 404 Page Not Found --> welcome
+ERROR - 2013-03-07 10:32:43 --> 404 Page Not Found --> welcome
+ERROR - 2013-03-07 10:32:48 --> 404 Page Not Found --> welcome
+ERROR - 2013-03-07 10:34:28 --> 404 Page Not Found --> welcome
